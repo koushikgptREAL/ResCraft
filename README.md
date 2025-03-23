@@ -66,5 +66,5 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📞 Contact
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [Your GitHub Profile](https://github.com/koushikgptREAL)
+- **Email**: your-koushikgadirajueshwar@gmail.com
