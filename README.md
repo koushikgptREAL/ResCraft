@@ -66,5 +66,5 @@ We welcome contributions! To contribute:
 This project is licensed under the **MIT License**.
 
 ## 📞 Contact
-- **GitHub**:(https://github.com/koushikgptREAL)
+- **GitHub**:https://github.com/koushikgptREAL
 - **Email**: koushikgadirajueshwar@gmail.com
