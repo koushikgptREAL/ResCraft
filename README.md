@@ -1,4 +1,4 @@
-# 📄 RESUCRAFT
+# 📄 RESCRAFT
 
 ## 🚀 Overview
 The **AI-Powered ATS Resume Score Checker** is a web-based tool designed to analyze resumes for **ATS (Applicant Tracking System) compatibility, keyword relevance, formatting, grammar, and optimization suggestions**. The platform helps job seekers improve their resumes to increase their chances of passing ATS filters used by recruiters.
